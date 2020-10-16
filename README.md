@@ -174,7 +174,7 @@ Please do *not* commit them.
 Badges
 ------
 
-Software Carpentry uses [Open Badges](http://openbadges.org/) to recognize people's skills and accomplishments.
+Software Carpentry is using [Open Badges](http://openbadges.org/) to recognize skills of peaople and there accomplishments.
 To create badges, you must install [PyPNG](http://pythonhosted.org/pypng/index.html) module:
 
 ~~~
